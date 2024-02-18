@@ -1,3 +1,5 @@
+# Project Description 
+
 This is a project for a Computer Vision and Machine Learning course where I applied CV2 to construct a real-time data collection mehtod for sign language data and constructed three models, to emphasize and learn the impacts the data set,
 model architecture, and parameters have on the accuracy and efficiency of the model. Regarding the program we used the viola jones algorithm the identify the face so that an ROI can be constructed, then I used the distribution of skin 
 tone in my face to help identify the location of my hands in real time, only after blocking off my face from the tracking camera. Once the foundation for the program was built, a timer was set so that it would capture my hands when they
